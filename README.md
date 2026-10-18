@@ -20,6 +20,7 @@ The project highlights why machine learning predictions should be evaluated care
 
 ## 📂 Project Structure
 
+```text
 crunchy-data-scientist-t2-rudra_ya_10/
 │
 ├── data/
@@ -33,6 +34,7 @@ crunchy-data-scientist-t2-rudra_ya_10/
 │   └── MODEL_RISK.md
 │
 └── README.md
+```
 
 ## 🛠️ Tools and Technologies
 
